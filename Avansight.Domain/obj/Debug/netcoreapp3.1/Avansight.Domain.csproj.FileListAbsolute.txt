@@ -1,0 +1,13 @@
+E:\code\Avansight\Avansight\Avansight.Domain\bin\Debug\netcoreapp3.1\Avansight.Domain.deps.json
+E:\code\Avansight\Avansight\Avansight.Domain\bin\Debug\netcoreapp3.1\Avansight.Domain.runtimeconfig.json
+E:\code\Avansight\Avansight\Avansight.Domain\bin\Debug\netcoreapp3.1\Avansight.Domain.runtimeconfig.dev.json
+E:\code\Avansight\Avansight\Avansight.Domain\bin\Debug\netcoreapp3.1\Avansight.Domain.dll
+E:\code\Avansight\Avansight\Avansight.Domain\bin\Debug\netcoreapp3.1\Avansight.Domain.pdb
+E:\code\Avansight\Avansight\Avansight.Domain\obj\Debug\netcoreapp3.1\Avansight.Domain.csproj.AssemblyReference.cache
+E:\code\Avansight\Avansight\Avansight.Domain\obj\Debug\netcoreapp3.1\Avansight.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\Avansight\Avansight\Avansight.Domain\obj\Debug\netcoreapp3.1\Avansight.Domain.AssemblyInfoInputs.cache
+E:\code\Avansight\Avansight\Avansight.Domain\obj\Debug\netcoreapp3.1\Avansight.Domain.AssemblyInfo.cs
+E:\code\Avansight\Avansight\Avansight.Domain\obj\Debug\netcoreapp3.1\Avansight.Domain.csproj.CoreCompileInputs.cache
+E:\code\Avansight\Avansight\Avansight.Domain\obj\Debug\netcoreapp3.1\Avansight.Domain.dll
+E:\code\Avansight\Avansight\Avansight.Domain\obj\Debug\netcoreapp3.1\Avansight.Domain.pdb
+E:\code\Avansight\Avansight\Avansight.Domain\obj\Debug\netcoreapp3.1\Avansight.Domain.genruntimeconfig.cache

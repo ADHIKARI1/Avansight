@@ -1,0 +1,10 @@
+E:\code\Avansight\Avansight\Avansight.Service\bin\Debug\netcoreapp3.1\Avansight.Service.deps.json
+E:\code\Avansight\Avansight\Avansight.Service\bin\Debug\netcoreapp3.1\Avansight.Service.dll
+E:\code\Avansight\Avansight\Avansight.Service\bin\Debug\netcoreapp3.1\Avansight.Service.pdb
+E:\code\Avansight\Avansight\Avansight.Service\obj\Debug\netcoreapp3.1\Avansight.Service.csproj.AssemblyReference.cache
+E:\code\Avansight\Avansight\Avansight.Service\obj\Debug\netcoreapp3.1\Avansight.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\Avansight\Avansight\Avansight.Service\obj\Debug\netcoreapp3.1\Avansight.Service.AssemblyInfoInputs.cache
+E:\code\Avansight\Avansight\Avansight.Service\obj\Debug\netcoreapp3.1\Avansight.Service.AssemblyInfo.cs
+E:\code\Avansight\Avansight\Avansight.Service\obj\Debug\netcoreapp3.1\Avansight.Service.csproj.CoreCompileInputs.cache
+E:\code\Avansight\Avansight\Avansight.Service\obj\Debug\netcoreapp3.1\Avansight.Service.dll
+E:\code\Avansight\Avansight\Avansight.Service\obj\Debug\netcoreapp3.1\Avansight.Service.pdb
